@@ -8,7 +8,6 @@ import {
   ScrollView,
 } from "react-native";
 import { AntDesign } from "@expo/vector-icons";
-import { BottomTabBar } from "@react-navigation/bottom-tabs";
 
 const imageURL = require("../../../assets/bg_pic.png");
 
