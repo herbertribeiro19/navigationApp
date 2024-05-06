@@ -22,7 +22,7 @@ export default function Contacts({ navigation }) {
         style={styles.boxView}
       >
         <View style={styles.box}>
-          <Text style={styles.title}>Francisco Dias Junior</Text>
+          <Text style={styles.title}>Francisco Dias</Text>
           <Text style={styles.title}>(75) 91111-2222</Text>
           <TouchableOpacity
             style={styles.btnInfo}
